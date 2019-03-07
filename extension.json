@@ -1,0 +1,8 @@
+{
+  "id": "youruiextensionid",
+  "name": "name",
+  "srcdoc": "./dist/index.html",
+  "fieldTypes": [
+    "Object"
+  ]
+}
